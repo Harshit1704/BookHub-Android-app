@@ -6,16 +6,20 @@ You can also sort the books according to ratings in descending order.
 This app also has other screens such as a Profile page which tell you about the developer that made the app and an About App page which tell you about the app.
 
 ## How to run :
-Simply install <b><i>app-release.apk</i></b> file on your android and run the application.
+<ul>
+  <li>Clone the github repository into your local system</li>
+  <li>Go to <b><i>app</i></b> -> <b><i>release</i></b></li>
+  <li>There you will see a file named <b><i>app-release.apk</i></b></li>
+  <li>Simply install <b><i>app-release.apk</i></b> file on your android device and run the application.</li>
+</ul>
 
 ## BookHub App Screenshots :
 
-
 <table>
   <tr>
-    <td>Dashboard :</td>
-     <td>Book Description :</td>
-     <td>Book Added to Favourite :</td>
+    <td><b>Dashboard :</b></td>
+     <td><b>Book Description :</b></td>
+     <td><b>Book Added to Favourite :</b></td>
   </tr>
   <tr>
     <td><img width="250" height="500" src="https://user-images.githubusercontent.com/53490141/123858672-6bd2a280-d941-11eb-8900-2b136fd3c46c.jpg"></td>
@@ -27,9 +31,9 @@ Simply install <b><i>app-release.apk</i></b> file on your android and run the ap
  <br>
  <table>
   <tr>
-     <td>Favourites : </td>
-     <td>Profile :</td>
-     <td>About App :</td>
+     <td><b>Favourites :</b></td>
+     <td><b>Profile :</b></td>
+     <td><b>About App :</b></td>
   </tr>
   <tr>
    <td><img width="250" height="500" src="https://user-images.githubusercontent.com/53490141/123857752-5ad56180-d940-11eb-90e0-f772c2756c7b.jpg"></td>
@@ -40,7 +44,7 @@ Simply install <b><i>app-release.apk</i></b> file on your android and run the ap
  
  <table>
   <tr>
-     <td>Navigation : </td>
+     <td><b>Navigation :</b></td>
   </tr>
   <tr>
    <td><img width="250" height="500" src="https://user-images.githubusercontent.com/53490141/123861000-42ffdc80-d944-11eb-93eb-c5768df85e73.jpg"></td>

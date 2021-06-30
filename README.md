@@ -1,9 +1,13 @@
 # BookHub-Android-app
-This app displays the list of popular books. You can see the full description of each book.
-This app displays the list of popular books. You can see the full description of each book.
-You can also add books to favourites and remove them whenever you want.
-You can also sort the books according to ratings in descending order.
-This app also has other screens such as a Profile page which tell you about the developer that made the app and an About App page which tell you about the app.
+1. Online BookHub app made in Kotlin & XML.
+2. This app displays the list of all popular books fetched from the internet using the link of API provided below :
+http://13.235.250.119/v1/book/fetch_books/
+3. It also displays the description of each book fetched from the internet using the link of API provided below :
+http://13.235.250.119/v1/book/get_book/
+4. Used JSON Request using Volley Library to transfer the data between the API server and the user’s device
+3. Used Room Database to manage books in the favourites section. You can add or remove books from favourites.
+4. You can also sort the books according to ratings in descending order.
+5. A Navigation Drawer with the app logo and name on top and menu options to open the following pages: a. Dashboard b. Favourites c. Profile d. About App
 
 ## How to run :
 <ul>

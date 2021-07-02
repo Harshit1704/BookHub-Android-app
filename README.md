@@ -9,14 +9,6 @@ http://13.235.250.119/v1/book/get_book/
 4. You can also sort the books according to ratings in descending order.
 5. A Navigation Drawer with the app logo and name on top and menu options to open the following pages: a. Dashboard b. Favourites c. Profile d. About App
 
-## How to run :
-<ul>
-  <li>Clone the github repository into your local system</li>
-  <li>Go to <b><i>app</i></b> -> <b><i>release</i></b></li>
-  <li>There you will see a file named <b><i>app-release.apk</i></b></li>
-  <li>Simply install <b><i>app-release.apk</i></b> file on your android device and run the application.</li>
-</ul>
-
 ## BookHub App Screenshots :
 
 <table>
